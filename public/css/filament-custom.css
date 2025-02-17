@@ -1,0 +1,5 @@
+.custom-radio-group label {
+    display: inline-block;
+    margin-right: 15px; 
+    font-weight: bold;
+}
